@@ -5,8 +5,8 @@
   R-HORIZON
 </h1>
 
-<div>
-   How Far Can Your Large Reasoning Model Really Go in Breadth and Depth? 
+<div align="center" style="line-height: 1;">
+  <h2 style="text-align: center; margin: 0;">How Far Can Your Large Reasoning Model Really Go in Breadth and Depth? </h2>
 </div>
 </div>
 
