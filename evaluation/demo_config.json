@@ -1,0 +1,26 @@
+{
+    "inference" : {
+        "r1-distill-qwen7b" : {
+            "base_url" : "", 
+            "api_key" : "",
+            "model_name" : "model name for vllm",
+            "params" : {
+                "temperature": 1.0,
+                "top_p" : 0.95,
+                "top_k" : 10,
+                "max_tokens": 65536
+            }
+        }
+    },
+    "extract" : {
+        "gpt-4.1" : {
+            "model_name": "gpt-4.1",
+            "base_url" : "",
+            "api_key" : "",
+            "params" : {
+                "temperature": 0.0,
+                "max_tokens": 16000
+            }
+        }
+    }
+}
