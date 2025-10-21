@@ -1,0 +1,5 @@
+working_dir: ./
+excludes: ["/.git/", "/jdk-11.0.12/", "/afo-base-0.0.1-SNAPSHOT.jar", "/afo-dist-user-files.tar.gz"]
+env_vars:
+  TORCH_NCCL_AVOID_RECORD_STREAMS: "1"
+  VLLM_ATTENTION_BACKEND: "XFORMERS"
