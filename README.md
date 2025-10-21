@@ -273,3 +273,9 @@ If you find R-HORIZON helpful for your research, please cite our paper:
       url={https://arxiv.org/abs/2510.08189}, 
 }
 ```
+
+## 📩 Contact
+Please contact us at <a href="mailto:longcat-team@meituan.com">longcat-team@meituan.com</a> or join our WeChat Group if you have any questions.
+
+#### WeChat Group
+<img src="https://github.com/meituan-longcat/LongCat-Flash-Thinking/blob/main/figures/wechat_qrcode.png" width="200px">
