@@ -23,7 +23,7 @@ R-HORIZON is a novel method designed to stimulate long-horizon reasoning behavio
 
 ## 🔥 Releases
 
-**[2025-10-09]**
+**[2025-10]**
 - 🎉 **R-HORIZON Benchmark** is now available! Test your LRMs on complex multi-horizon reasoning tasks.
 - 🤗 **Training and evaluation datasets** are available on Hugging Face: [R-HORIZON Dataset](https://huggingface.co/datasets/meituan-longcat/R-HORIZON-training-data)
 - 📄 **Paper released** on arXiv: [R-HORIZON: How Far Can Your Large Reasoning Model Really Go in Breadth and Depth?](https://arxiv.org/abs/2510.08189)
